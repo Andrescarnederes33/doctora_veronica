@@ -41,167 +41,7 @@
         </div>
         <br><br>
         <section style="background-color:rebeccapurple;">
-                        <div class="grid-service">
-
-                                        <div class="service1 m-bottom-10">
-                                            <div class="grid-storie-telling rounded m-bottom-30 p-1" align="center">
-                            
-                            
-                                                <div class="story-header-description">
-                                                    <!-- <p class="date-time-theme">MAY 06 / REJUV CHIP</p> -->
-                                                    <h4>CONSULTA GINECOLÓGICA</h4>
-                            
-                                                    <button id="" class="cites-btn p-1" type="button" data-number="0">Solicitar Servicio &nbsp; <img id="" class="middle" src="/img/contacto-white.svg" alt="" width="20px"></button>
-                            
-                                                    <button id="" class="info-services p-1" type="button" data-g="Consulta-ginecológica">Más
-                                                        información &nbsp; <img id="" class="middle" src="/img/info.svg" alt="" width="20px"></button>
-                                                    <br><br>
-                                                </div>
-                            
-                                                <div class="story-image">
-                                                    <!-- <div class="vertical-middle"> -->
-                                                    <!-- <img src="https://www.doctoraveronicagarcia.com/images/consult1.jpg" alt="" width="130px"> -->
-                                                    <!-- </div> -->
-                                                </div>
-                            
-                            
-                            
-                                            </div>
-                                        </div>
-                            
-                                        <div class="service2 m-bottom-10">
-                                            <div class="grid-storie-telling rounded m-bottom-30 p-1" align="center">
-                            
-                            
-                                                <div class="story-header-description">
-                                                    <!-- <p class="date-time-theme">MAY 06 / REJUV CHIP</p> -->
-                                                    <h4>CONSULTA OBSTETRICIA <br> Y CONTROL PRENATAL</h4>
-                            
-                                                    <button id="" class="cites-btn p-1" type="button" data-number="1">Solicitar Servicio &nbsp; <img id="" class="middle" src="/img/contacto-white.svg" alt="" width="20px"></button>
-                            
-                                                    <button id="" class="info-services p-1" type="button" data-g="Consulta-obstetricia-control-prenatal">Más Información &nbsp; <img id="" class="middle" src="/img/info.svg" alt="" width="20px"></button>
-                                                    <br><br>
-                                                </div>
-                            
-                                                <div class="story-image">
-                                                    <!-- <div class="vertical-middle"> -->
-                                                    <!-- <img src="https://www.doctoraveronicagarcia.com/images/obste-1.jpg" alt="" width="130px"> -->
-                                                    <!-- </div> -->
-                                                </div>
-                            
-                            
-                            
-                                            </div>
-                                        </div>
-                            
-                                        <div class="service3 m-bottom-10">
-                                            <div class="grid-storie-telling rounded m-bottom-30 p-1" align="center">
-                            
-                            
-                                                <div class="story-header-description">
-                                                    <!-- <p class="date-time-theme">MAY 06 / REJUV CHIP</p> -->
-                                                    <h4>ANTICONCEPCIÓN FAMILIAR</h4>
-                                                    <button id="" class="cites-btn p-1" type="button" data-number="2">Solicitar Servicio &nbsp; <img id="" class="middle" src="/img/contacto-white.svg" alt="" width="20px"></button>
-                            
-                                                    <button id="" class="info-services p-1" type="button" data-g="Anticoncepción-familiar">Más
-                                                        Información &nbsp; <img id="" class="middle" src="/img/info.svg" alt="" width="20px"></button>
-                                                    <br><br>
-                                                </div>
-                            
-                                                <div class="story-image">
-                                                    <!-- <div class="vertical-middle"> -->
-                                                    <!-- <img src="https://www.doctoraveronicagarcia.com/images/anticon.jpg" alt="" width="130px"> -->
-                                                    <!-- </div> -->
-                                                </div>
-                            
-                            
-                            
-                                            </div>
-                                        </div>
-                            
-                            
-                                        <div class="service4 m-bottom-10">
-                                            <div class="grid-storie-telling rounded m-bottom-30 p-1" align="center">
-                            
-                            
-                                                <div class="story-header-description">
-                                                    <!-- <p class="date-time-theme">MAY 06 / REJUV CHIP</p> -->
-                                                    <h4>GINECOLOGÍA LÁSER</h4>
-                            
-                                                    <button id="" class="cites-btn p-1" type="button" data-number="3">Solicitar Servicio &nbsp; <img id="" class="middle" src="/img/contacto-white.svg" alt="" width="20px"></button>
-                            
-                                                    <button id="" class="info-services p-1" type="button" data-g="Ginecología-láser">Más Información
-                                                        &nbsp; <img id="" class="middle" src="/img/info.svg" alt="" width="20px"></button>
-                                                    <br><br>
-                            
-                                                </div>
-                            
-                                                <div class="story-image">
-                                                    <!-- <div class="vertical-middle"> -->
-                                                    <!-- <img src="https://www.doctoraveronicagarcia.com/images/ginelaser-1.jpg" alt="" width="130px"> -->
-                                                    <!-- </div> -->
-                                                </div>
-                            
-                            
-                            
-                                            </div>
-                                        </div>
-                            
-                                        <div class="service5 m-bottom-10">
-                                            <div class="grid-storie-telling rounded m-bottom-30 p-1" align="center">
-                            
-                            
-                                                <div class="story-header-description">
-                                                    <!-- <p class="date-time-theme">MAY 06 / REJUV CHIP</p> -->
-                                                    <h4>MENOPAUSIA</h4>
-                            
-                                                    <button id="" class="cites-btn p-1" type="button" data-number="4">Solicitar Servicio &nbsp; <img id="" class="middle" src="/img/contacto-white.svg" alt="" width="20px"></button>
-                            
-                                                    <button id="" class="info-services p-1" type="button" data-g="Menopausia">Más Información &nbsp;
-                                                        <img id="" class="middle" src="/img/info.svg" alt="" width="20px"></button>
-                                                    <br><br>
-                            
-                                                </div>
-                            
-                                                <div class="story-image">
-                                                    <!-- <div class="vertical-middle"> -->
-                                                    <!-- <img src="https://www.doctoraveronicagarcia.com/images/menopausia.jpg" alt="" width="130px"> -->
-                                                    <!-- </div> -->
-                                                </div>
-                            
-                            
-                            
-                                            </div>
-                                        </div>
-                            
-                                        <div class="service6 m-bottom-10">
-                                            <div class="grid-storie-telling rounded m-bottom-30 p-1" align="center">
-                            
-                            
-                                                <div class="story-header-description">
-                                                    <!-- <p class="date-time-theme">MAY 06 / REJUV CHIP</p> -->
-                                                    <h4>REJUV CHIP</h4>
-                            
-                                                    <button id="" class="cites-btn p-1" type="button" data-number="12">Solicitar Servicio &nbsp;
-                                                        <img id="" class="middle" src="/img/contacto-white.svg" alt="" width="20px"></button>
-                            
-                                                    <button id="" class="info-services p-1" type="button" data-g="rejuv-chip">Más Información &nbsp;
-                                                        <img id="" class="middle" src="/img/info.svg" alt="" width="20px"></button>
-                                                    <br><br>
-                                                </div>
-                            
-                                                <div class="story-image">
-                                                    <!-- <div class="vertical-middle"> -->
-                                                    <!-- <img src="/img/rejuvchip_130x130.png" alt="" width="130px"> -->
-                                                    <!-- </div> -->
-                                                </div>
-                            
-                            
-                            
-                                            </div>
-                                        </div>
-                            
-                                    </div>
+                        
         </section>
 
 </section>
@@ -317,7 +157,7 @@
                 <div class="col s12 m7">
                         <div class="card horizontal">
                                 <div class="card-image">
-                                        <img src="../public/src/img/informacion/incontinencia-urinaria.jpg">
+                                        <img src="../public/src/img/informacion/lesionesPVH.jpg">
                                 </div>
                                 <div class="card-stacked">
                                         <div class="card-content">
@@ -340,7 +180,7 @@
                 <div class="col s12 m7">
                         <div class="card horizontal">
                                 <div class="card-image">
-                                        <img src="../public/src/img/informacion/lesionesPVH.jpg">
+                                        <img src="../public/src/img/informacion/tensado.jpg">
                                 </div>
                                 <div class="card-stacked">
                                         <div class="card-content">
@@ -359,7 +199,7 @@
                 <div class="col s12 m7">
                         <div class="card horizontal">
                                 <div class="card-image">
-                                        <img src="../public/src/img/informacion/lesionesPVH.jpg">
+                                        <img src="../public/src/img/informacion/labioplastia.jpg">
                                 </div>
                                 <div class="card-stacked">
                                         <div class="card-content">
@@ -378,7 +218,7 @@
                 <div class="col s12 m7">
                         <div class="card horizontal">
                                 <div class="card-image">
-                                        <img src="../public/src/img/informacion/lesionesPVH.jpg">
+                                        <img src="../public/src/img/informacion/blanqueamiento.jpg">
                                 </div>
                                 <div class="card-stacked">
                                         <div class="card-content">
@@ -396,7 +236,7 @@
                 <div class="col s12 m7">
                         <div class="card horizontal">
                                 <div class="card-image">
-                                        <img src="../public/src/img/informacion/lesionesPVH.jpg">
+                                        <img src="../public/src/img/informacion/perineo.jpg">
                                 </div>
                                 <div class="card-stacked">
                                         <div class="card-content">
