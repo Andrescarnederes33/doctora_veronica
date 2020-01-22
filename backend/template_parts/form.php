@@ -1,23 +1,29 @@
-<form action="./rC.php" method="POST" class="form-convertion">
+<form action="./rC.php" method="POST">
     <div align="center">
-        <br>
-        <h4 class="m0">Llámanos con un clic</h4>
-        <a class="m0" href="tel:3136511039">
-            <!-- <img src="/img/phone-new.svg" alt="" class="middle" width="20px"> -->
-            3136511039</a>
-        <br>
-        <h4 class="m0"> déjanos contactarte</h4>
-        <br>
+        <h4 class="m0"> Déjanos contactarte</h4>
     </div>
-    <input type="text" name="nombre" placeholder="Nombre completo" required="">
+    <hr style="border: 0;border-bottom: 1px solid #ddd;">
+    <br>
+    <div class="input-field col s6">
+          <input id="name" type="text" class="validate" required>
+          <label for="name">Nombre completo</label>
+    </div>
 
-    <input type="tel" name="celular" placeholder="Celular" required="">
+    <div class="input-field col s6">
+          <input id="tel" type="tel" class="validate" required>
+          <!-- <input type="tel" name="celular" placeholder="Celular" required=""> -->
+          <label for="tel">Celular</label>
+    </div>
+    
 
-    <input type="text" name="correo" placeholder="Correo" required="">
-
+    <div class="input-field col s6">
+        <input id="email" type="tel" class="validate" required>
+          <label for="email">Correo</label>
+    </div>
     <!-- The second value will be selected initially -->
-    <select name="tipo_consulta" class="input border-one p-1 rounded" id="servicio">
-        <option value="Consulta Ginecológica">Consulta Ginecológica</option>
+     <div>
+    <select>
+    <option value="Consulta Ginecológica">Consulta Ginecológica</option>
         <option value="Consulta Obstetricia y control prenatal">Consulta Obstetricia y control
             prenatal</option>
         <option value="Anticoncepción familiar" selected="">Anticoncepción familiar</option>
@@ -35,16 +41,23 @@
         <option value="Ácido Hialurónico">Ácido Hialurónico</option>
         <option value="Sin motivo de la consulta">Motivo de la consulta</option>
     </select>
+    <label>Materialize Select</label>
+  </div>
 
-
-    <textarea name="mensaje" placeholder="Mensaje"></textarea>
+  <div class="input-field col s12">
+          <textarea id="textarea1" class="materialize-textarea"></textarea>
+          <label for="textarea1">Textarea</label>
+        </div>
+    <!-- <textarea name="mensaje" placeholder="Mensaje"></textarea> -->
 
     <div class="g-recaptcha" data-sitekey="6LfOF7MUAAAAAGxjlpZERwnUN6kaO_kt8MnlYnZK"></div>
 
     <div style="margin-top: 10px;" align="right">
         <small><a href="/politicas" target="_blank" rel="noopener noreferrer">Politicas de privacidad</a></small> &nbsp;
-        <button type="submit" class="submit"> <img src="/public/img/send.svg" class="middle" width="15px"> Enviar
-            datos</button>
+        <button type="submit" class="waves-effect waves-light btn-large"> 
+            <!-- <img src="/public/img/send.svg" class="middle" width="15px"> -->
+            Enviar datos
+        </button>
 
     </div>
 </form>

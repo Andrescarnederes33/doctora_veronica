@@ -5,12 +5,13 @@
     height: 100vh;
     background-image: url(../img/portada.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover
 }
 
 .grid_fold_image {
+    height: inherit;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
-    grid-gap: 0;
+    grid-gap: 0
 }

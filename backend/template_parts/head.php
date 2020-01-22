@@ -4,7 +4,7 @@
 <title>Doctora Verónica Garcia Bedoya : <?php print($title_website); ?></title>
 <link rel="shortcut icon" href="./public/src/img/favicon.png" type="image/x-icon">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<!-- <link rel="stylesheet" href="./public/src/css/normalize.css"> -->
+<link rel="stylesheet" href="./public/src/css/main.css">
 <link rel="stylesheet" href="./public/src/css/materialize.min.css">
 <script src="https://www.google.com/recaptcha/api.js" async defer></script> 
 <!-- 

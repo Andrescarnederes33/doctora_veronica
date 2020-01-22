@@ -1,0 +1,26 @@
+.service1{
+    grid-area: service1
+    }
+    .service2{
+    grid-area: service2
+    }
+    
+    .service3{
+    grid-area: service3
+    }
+    .service4{
+    grid-area: service4
+    }grid-storie-telling
+    
+    .service5{
+    grid-area: service5
+    }
+    .service6{
+    grid-area: service6
+    }
+
+    .grid_servicios{
+        display: grid;
+        grid-gap: 20px;
+        grid-template-areas: "service1 service2" "service3 service4" "service5 service6";
+    }

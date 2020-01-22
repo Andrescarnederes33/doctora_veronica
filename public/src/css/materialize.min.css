@@ -2700,7 +2700,7 @@ ul.staggered-list li {
 .page-footer {
     padding-top: 20px;
     color: #fff;
-    background-color: #ee6e73
+    background-color: #639
 }
 
 .page-footer .footer-copyright {
@@ -4547,7 +4547,11 @@ small {
     display: -ms-flexbox;
     display: flex
 }
-
+@media(max-width:900px){
+    .card.horizontal {
+        flex-direction: column
+    }
+}
 .card.horizontal.small .card-image, .card.horizontal.medium .card-image, .card.horizontal.large .card-image {
     height: 100%;
     max-height: none;
@@ -4562,6 +4566,12 @@ small {
     max-width: 50%
 }
 
+@media(max-width:900px){
+    .card.horizontal .card-image {
+        max-width: 100%
+    }
+    
+}
 .card.horizontal .card-image img {
     border-radius: 2px 0 0 2px;
     max-width: 100%;
@@ -4938,13 +4948,13 @@ small {
 }
 
 .btn:focus, .btn-large:focus, .btn-small:focus, .btn-floating:focus {
-    background-color: #1d7d74
+    background-color: #733e95
 }
 
 .btn, .btn-large, .btn-small {
     text-decoration: none;
     color: #fff;
-    background-color: #26a69a;
+    background-color: #733e95   ;
     text-align: center;
     letter-spacing: .5px;
     -webkit-transition: background-color .2s ease-out;
@@ -4953,7 +4963,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover, .btn-small:hover {
-    background-color: #2bbbad
+    background-color: #8b50b1
 }
 
 .btn-floating {
