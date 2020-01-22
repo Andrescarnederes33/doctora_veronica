@@ -1,0 +1,16 @@
+/* #fold{} */
+
+#fold_image {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/portada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.grid_fold_image {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 0;
+}
