@@ -53,7 +53,8 @@
     <div class="g-recaptcha" data-sitekey="6LfOF7MUAAAAAGxjlpZERwnUN6kaO_kt8MnlYnZK"></div>
 
     <div style="margin-top: 10px;" align="right">
-        <small><a href="/politicas" target="_blank" rel="noopener noreferrer">Politicas de privacidad</a></small> &nbsp;
+        <span><a href="/politicas" target="_blank" rel="noopener noreferrer">Politicas de privacidad</a></span>
+         &nbsp;
         <button type="submit" class="waves-effect waves-light btn-large"> 
             <!-- <img src="/public/img/send.svg" class="middle" width="15px"> -->
             Enviar datos

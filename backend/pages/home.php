@@ -1,3 +1,20 @@
+<style>
+   audio{width:50%;margin:0 auto;border-radius:50px;}
+        
+        @media(max-width:900px){
+            audio{
+                width:90%;
+            }
+        }
+        .intro_entrevista{
+            max-width: 660px;text-align: justify;
+        }
+    @media(max-width:900px){
+        .intro_entrevista{
+            max-width: 330px;text-align: justify;
+        }
+    }    
+  </style>
 <section id="fold">
         <div id="fold_image">
 
@@ -17,7 +34,8 @@
 <br><br>
 
 <section id="servicios">
-        <div class="container">
+<br><br>
+<div class="container">
                 <div>
                         <h3>PORTAFOLIO MÉDICO Y EMPRESARIAL</h3>
                         <p>La Doctora Verónica García Bedoya hablo en Portafolio médico y empresarial como personaje del
@@ -41,9 +59,167 @@
         </div>
         <br><br>
         <section style="background-color:rebeccapurple;">
-                        
-        </section>
+                <br><br>
+                <div class="container">
+                        <div class="grid_services">
+                                <div>
+                                        <div class="card">
+                                                <div class="card-image waves-effect waves-block waves-light">
+                                                        <img class="activator"
+                                                                src="/public/src/img/servicios/consulta_ginecologica.png">
+                                                </div>
+                                                <div class="card-content">
+                                                        <span class="card-title activator grey-text text-darken-4">GINECOLOGÍA
+                                                                LÁSER<i
+                                                                        class="material-icons right">more_vert</i></span>
+                                                        <p><a href="#">AGENDAR CITA</a></p>
+                                                </div>
+                                                <div class="card-reveal">
+                                                        <span class="card-title grey-text text-darken-4">GINECOLOGÍA
+                                                                LÁSER <i class="material-icons right">close</i></span>
+                                                        <p>Convertir ese momento de compartir tus inquietudes de salud
+                                                                íntima con un especialista que te brinda profesionalismo
+                                                                y confianza dándote mayor seguridad...</p>
+                                                                <a href="#" class="item_link_info">Más información</a>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div>
+                                        <div class="card">
+                                                <div class="card-image waves-effect waves-block waves-light">
+                                                        <img class="activator"
+                                                                src="/public/src/img/servicios/consulta_obstetricia.png">
+                                                </div>
+                                                <div class="card-content">
+                                                        <span class="card-title activator grey-text text-darken-4">
+                                                                OBSTETRICIA Y CONTROL PRENATAL<i
+                                                                        class="material-icons right">more_vert</i></span>
+                                                        <p><a href="#">AGENDAR CITA</a></p>
+                                                </div>
+                                                <div class="card-reveal">
+                                                        <span class="card-title grey-text text-darken-4">OBSTETRICIA Y
+                                                                CONTROL PRENATAL<i
+                                                                        class="material-icons right">close</i></span>
+                                                        <p>
+                                                                La primera visita a control prenatal se realiza
+                                                                comúnmente en el primer trimestre, antes de completar
+                                                                las 12 semanas de edad gestacional. Uno de los objetivos
+                                                                de la primera visita es identificar y modificar los
+                                                                factores de riesgo...
+                                                        </p>
+                                                        <a href="#" class="item_link_info">Más información</a>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div>
+                                        <div class="card">
+                                                <div class="card-image waves-effect waves-block waves-light">
+                                                        <img class="activator"
+                                                                src="/public/src/img/servicios/consulta_anticoncepcion.png">
+                                                </div>
+                                                <div class="card-content">
+                                                        <span class="card-title activator grey-text text-darken-4">ANTICONCEPCIÓN
+                                                                FAMILIAR<i
+                                                                        class="material-icons right">more_vert</i></span>
+                                                        <p><a href="#">AGENDAR CITA</a></p>
+                                                </div>
+                                                <div class="card-reveal">
+                                                        <span class="card-title grey-text text-darken-4">ANTICONCEPCIÓN
+                                                                FAMILIAR<i class="material-icons right">close</i></span>
+                                                        <p>
+                                                                Planificar el número de hijos que deseas y determinar el
+                                                                intervalo temporal entre embarazos corresponden a una
+                                                                excelente forma para hacer control de tus capacidades y
+                                                                necesidades en el aspecto familiar y maternal...
+                                                        </p>
+                                                        <a href="#" class="item_link_info">Más información</a>
+                                                </div>
+                                        </div>
+                                </div>
 
+
+
+                                <div>
+                                        <div class="card">
+                                                <div class="card-image waves-effect waves-block waves-light">
+                                                        <img class="activator"
+                                                                src="/public/src/img/servicios/consulta_ginecologia_laser.png">
+                                                </div>
+                                                <div class="card-content">
+                                                        <span class="card-title activator grey-text text-darken-4">GINECOLOGÍA
+                                                                LÁSER<i
+                                                                        class="material-icons right">more_vert</i></span>
+                                                        <p><a href="#">Agendar cita</a></p>
+                                                </div>
+                                                <div class="card-reveal">
+                                                        <span class="card-title grey-text text-darken-4">GINECOLOGÍA
+                                                                LÁSER<i class="material-icons right">close</i></span>
+                                                        <p>
+                                                                El desarrollo de nuevas tecnologías aplicadas en el área
+                                                                de salud nos ha permitido aplicar la terapia láser para
+                                                                tratar distintos problemas de índole funcional y
+                                                                estético relacionados con la parte intima de la mujer...
+                                                        </p>
+                                                        <a href="#" class="item_link_info">Más información</a>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div>
+                                        <div class="card">
+                                                <div class="card-image waves-effect waves-block waves-light">
+                                                        <img class="activator"
+                                                                src="/public/src/img/servicios/consulta_menopausia.png">
+                                                </div>
+                                                <div class="card-content">
+                                                        <span class="card-title activator grey-text text-darken-4">Menopausia<i
+                                                                        class="material-icons right">more_vert</i></span>
+                                                        <p><a href="#">Agendar cita</a></p>
+                                                </div>
+                                                <div class="card-reveal">
+                                                        <span class="card-title grey-text text-darken-4">Menopausia<i
+                                                                        class="material-icons right">close</i></span>
+                                                        <p>
+                                                                Es una etapa en la vida de las mujeres caracterizada por
+                                                                grandes cambios que se ven reflejados en síntomas que
+                                                                pueden resultar molestos para muchas de ellas...
+                                                        </p>
+                                                        <a href="#" class="item_link_info">Más información</a>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div>
+                                        <div class="card">
+                                                <div class="card-image waves-effect waves-block waves-light">
+                                                        <img class="activator"
+                                                                src="/public/src/img/servicios/rejuv_chip.png">
+                                                </div>
+                                                <div class="card-content">
+                                                        <span class="card-title activator grey-text text-darken-4">Rejuv
+                                                                Chip<i class="material-icons right">more_vert</i></span>
+                                                        <p><a href="#">Agendar cita</a></p>
+                                                </div>
+                                                <div class="card-reveal">
+                                                        <span class="card-title grey-text text-darken-4">Rejuv Chip<i
+                                                                        class="material-icons right">close</i></span>
+                                                        <p>
+                                                                El rejuv chip es un implante subcutáneo casi de grande
+                                                                como un grano de arroz, que se implanta en la zona de la
+                                                                cadera del paciente, con el fin de liberar la hormona de
+                                                                la testosterona de manera regular, en muy pequeñas dosis
+                                                                y de manera constante...
+                                                        </p>
+                                                        <a href="#" class="item_link_info">Más información</a>
+                                                </div>
+                                        </div>
+                                </div>
+
+                        </div>
+                </div>
+
+                <br>
+
+        </section>
+        <br><br>
 </section>
 
 <br><br>
@@ -66,6 +242,8 @@
                                 <video controls src="./public/src/img/video.mp4" width="300px"></video>
                         </div>
                         <div class="col m6 s12">
+                                
+                                <!-- <img src="https://rejuvchip.com/store/wp-content/uploads/Uffelman_FunctionalMale60vc.png" width="260px"> -->
                                 <h4>Beneficios del Rejuv Chip</h4>
                                 <ul class="list-rejuv-chip">
                                         <li>
@@ -96,7 +274,7 @@
 
                                 <div>
                                         <a class="waves-effect waves-light btn-large"><i
-                                                        class="material-icons right">cloud</i>Ventas</a>
+                                                        class="material-icons right">add_shopping_cart</i>Ventas</a>
                                         <a class="waves-effect waves-light btn-large">Más información</a>
                                 </div>
                         </div>
@@ -105,6 +283,7 @@
         </div>
 </section>
 
+<br><br>
 <br><br>
 
 <section id="information">
@@ -189,7 +368,7 @@
                                                         information.</p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="#">This is a link</a>
+                                                <a href="#">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -208,7 +387,7 @@
                                                         information.</p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="#">This is a link</a>
+                                                <a href="#">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -227,7 +406,7 @@
                                                         information.</p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="#">This is a link</a>
+                                                <a href="#">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -245,7 +424,7 @@
                                                         information.</p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="#">This is a link</a>
+                                                <a href="#">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -253,3 +432,5 @@
 
         </div>
 </section>
+
+<br><br>

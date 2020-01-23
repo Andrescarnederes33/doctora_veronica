@@ -1,27 +1,10 @@
-.service1{
-    grid-area: service1
-    }
-    .service2{
-    grid-area: service2
-    }
-    
-    .service3{
-    grid-area: service3
-    }
-    .service4{
-    grid-area: service4
-    }grid-storie-telling
-    
-    .service5{
-    grid-area: service5
-    }
-    .service6{
-    grid-area: service6
-    }
-    
-    
-    .grid-service{
-    display: grid;
-    grid-gap:20px; 
-    grid-template-areas: "service1 service2" "service3 service4" "service5 service6";
-      }
+.grid_services{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 0 20px
+}
+
+.item_link_info{
+  
+}
