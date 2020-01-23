@@ -26,8 +26,12 @@
   <div id="rejuvchip" class="col s12">
   <?php include './backend/pages/rejuv_chip.php'; ?>
   </div>
-  <div id="blog" class="col s12">Blog</div>
-  <div id="contacto" class="col s12">Contacto</div>
+  <div id="blog" class="col s12"> 
+  <?php include './backend/pages/blog.php'; ?>
+  </div>
+  <div id="contacto" class="col s12">
+  <?php include './backend/pages/contacto.php'; ?>
+  </div>
 
   <?php include './backend/template_parts/footer.php'; ?>
 

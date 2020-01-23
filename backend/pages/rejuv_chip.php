@@ -38,6 +38,24 @@
         grid-gap: 0;
         color: #fff
     }
+
+
+    .bg_benefits_rejuv_chip {
+        background-image: url(/public/src/img/servicios/beneficios_rejuv_chip.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 400px;
+        /* display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center */
+    }
+
+
+    .list_items {
+        margin: 0 10px;
+        list-style-image: url('public/src/img/check.png');
+    }
 </style>
 <section id="fold_rejuv_chip">
     <div class="image_fold central_text_rejuv_chip">
@@ -72,19 +90,7 @@
             energía, donde teníamos la pasión, la actitud y las ganas para lograr cualquier meta propuesta.
         </p>
         <br>
-        <!-- <div> -->
-                <h3>Aplicación</h3>
-                <p>
-                    Poner el Rejuvchip es muy sencillo, para hacerlo primero se inyecta en la zona de la aplicación un poco
-                    de
-                    anestesia y luego se procede a hacer una incisión para insertar el Rejuvchip con un aplicador diseñado
-                    para
-                    este fin, es un proceso muy rápido entre dos y cinco minutos, tambien es muy sencillo, si se hace por un
-                    experto en la materia.
-                </p>
-    
-            <!-- </div> -->
-            <br>
+
     </section>
     <br><br>
     <section id="solution_menopausia">
@@ -93,19 +99,38 @@
         <p>
             Descubre una alternativa natural que trata eficientemente los síntomas:
         </p>
-        <a class="waves-effect waves-light btn-large"><i class="material-icons right"></i>Habla con la Doctora</a>
+        <!-- <a class="waves-effect waves-light btn-large"><i class="material-icons right"></i>Habla con la Doctora</a> -->
     </section>
     <br><br>
-    <br>
+
+    <div>
+        <h3>Aplicación</h3>
+        <p>
+            Poner el Rejuvchip es muy sencillo, para hacerlo primero se inyecta en la zona de la aplicación un poco
+            de
+            anestesia y luego se procede a hacer una incisión para insertar el Rejuvchip con un aplicador diseñado
+            para
+            este fin, es un proceso muy rápido entre dos y cinco minutos, tambien es muy sencillo, si se hace por un
+            experto en la materia.
+        </p>
+        <a class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Más información</a>
+    </div>
+
+    <br><br>
+    <br><br>
     <section id="benefits_rejuv_chip">
         <div class="row">
             <!-- <div class="col s12">This div is 12-columns wide on all screen sizes</div> -->
             <div class="col m6 s12">
-                <img src="/public/src/img/servicios/beneficios_rejuv_chip.png" alt="" width="100%">
+                <div class="bg_benefits_rejuv_chip">
+                    <!-- <a class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Más 
+                        información</a>-->
+                </div>
+                <!-- <img src="/public/src/img/servicios/beneficios_rejuv_chip.png" alt="" width="100%"> -->
             </div>
             <div class="col m6 s12">
                 <h4>Beneficios del Rejuv Chip</h4>
-                <ul>
+                <ul class="list_items">
                     <li class="list">Elimina el sofoco o bochorno ya que regula las sensaciones de temperatura.</li>
                     <br>
                     <li class="list">Controla los cambios de humor, despareciendo la irritabilidad y la depresión.</li>
@@ -124,7 +149,7 @@
             </div>
         </div>
     </section>
-    
+
 </div>
 
 
