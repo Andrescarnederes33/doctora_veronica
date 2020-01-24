@@ -7,8 +7,8 @@
   <ul>
     <!-- <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
     <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li> -->
-    <li><a class="btn-floating black"><i class="material-icons">publish</i></a></li>
-    <li><a class="btn-floating black"><i class="material-icons">attach_file</i></a></li>
+    <li><a class="btn-floating black"><i class="material-icons">chat</i></a></li>
+    <li><a class="btn-floating black"><i class="material-icons">phone</i></a></li>
   </ul>
 </div>
 
@@ -22,10 +22,10 @@
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Contacto</h5>
                 <ul>
-                  <li>Fijo:<a class="grey-text text-lighten-3" href="#!">(4) 313 25 05 </a></li>
-                  <li>Móvil:<a class="grey-text text-lighten-3" href="#!">(313) 651 10 39 </a></li>
-                  <li>Email:<a class="grey-text text-lighten-3" href="#!">Email : contacto@doctoraveronicagarcia.com</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!"></a></li>
+                  <li>Fijo:<a class="grey-text text-lighten-3" href="tel:0343132505">(4) 313 25 05 </a></li>
+                  <li>Móvil:<a class="grey-text text-lighten-3" href="tel:3136511039">(313) 651 10 39 </a></li>
+                  <li>Email:<a class="grey-text text-lighten-3" href="mailto:contacto@doctoraveronicagarcia.com">contacto@doctoraveronicagarcia.com</a></li>
+                  <!-- <li><a class="grey-text text-lighten-3" href="#!"></a></li> -->
                 </ul>
               </div>
             </div>
@@ -33,7 +33,7 @@
           <div class="footer-copyright">
             <div class="container">
             © 2020 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="#!">Politicas de privacidad</a>
+            <a class="grey-text text-lighten-4 right" href="#!" target="_blank" rel="noopener noreferrer nofollow">Politicas de privacidad</a>
             </div>
           </div>
         </footer>

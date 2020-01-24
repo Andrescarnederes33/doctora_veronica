@@ -1,4 +1,4 @@
-<form action="./rC.php" method="POST">
+<form action="/send.php" method="POST">
     <div align="center">
         <h4 class="m0"> Déjame contactarte</h4>
     </div>
@@ -53,7 +53,7 @@
     <div class="g-recaptcha" data-sitekey="6LfOF7MUAAAAAGxjlpZERwnUN6kaO_kt8MnlYnZK"></div>
 
     <div style="margin-top: 10px;" align="right">
-        <span><a href="/politicas" target="_blank" rel="noopener noreferrer">Politicas de privacidad</a></span>
+        <span><a href="/politicas" target="_blank" rel="noopener noreferrer nofollow">Politicas de privacidad</a></span>
          &nbsp;
         <button type="submit" class="waves-effect waves-light btn-large"> 
             <!-- <img src="/public/img/send.svg" class="middle" width="15px"> -->
