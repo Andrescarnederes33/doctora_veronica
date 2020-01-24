@@ -41,7 +41,7 @@
         <option value="Ácido Hialurónico">Ácido Hialurónico</option>
         <option value="Sin motivo de la consulta">Motivo de la consulta</option>
     </select>
-    <label>Materialize Select</label>
+    <!-- <label>Materialize Select</label> -->
   </div>
 
   <div class="input-field col s12">
