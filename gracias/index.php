@@ -3,8 +3,7 @@
 
 <head>
     <?php $title_website = "Gracias"; ?>
-    <?php include '../backend/template_parts/head.php'; ?>
-    <link rel="stylesheet" href="../public/src/css/fold.css">
+    <?php include '../backend/template_parts/head.php_subpages'; ?>
 </head>
 
 <body>
