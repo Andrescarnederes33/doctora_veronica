@@ -1,6 +1,6 @@
 <div class="container">
     <div class="form">
-        <form action="./rC.php" method="POST">
+        <form action="/backend/send.php" method="POST">
             <div align="center">
                 <h4 class="m0"> Déjanos contactarte</h4>
             </div>
@@ -13,7 +13,6 @@
 
             <div class="input-field col s6">
                 <input id="tel" type="tel" class="validate" required>
-                <!-- <input type="tel" name="celular" placeholder="Celular" required=""> -->
                 <label for="tel">Celular</label>
             </div>
 
@@ -22,7 +21,7 @@
                 <input id="email" type="tel" class="validate" required>
                 <label for="email">Correo</label>
             </div>
-            <!-- The second value will be selected initially -->
+
             <div>
                 <select>
                     <option value="Consulta Ginecológica">Consulta Ginecológica</option>
@@ -31,7 +30,7 @@
                     <option value="Anticoncepción familiar" selected="">Anticoncepción familiar</option>
                     <option value="Ginecología Láser">Ginecología Láser</option>
                     <option value="Menopausia">Menopausia</option>
-                    <!--5-->
+                   
                     <option value="Atrofia Genital">Atrofia Genital</option>
                     <option value="Incontinencia Urinaria">Incontinencia Urinaria</option>
                     <option value="Lesiones de VPH">Lesiones de VPH</option>
@@ -50,15 +49,13 @@
                 <textarea id="textarea1" class="materialize-textarea"></textarea>
                 <label for="textarea1">Textarea</label>
             </div>
-            <!-- <textarea name="mensaje" placeholder="Mensaje"></textarea> -->
 
             <div class="g-recaptcha" data-sitekey="6LfOF7MUAAAAAGxjlpZERwnUN6kaO_kt8MnlYnZK"></div>
 
             <div style="margin-top: 10px;" align="right">
-                <span><a href="/politicas" target="_blank" rel="noopener noreferrer">Politicas de privacidad</a></span>
-                &nbsp;
+                <span><a href="/politicas" target="_blank" rel="noopener noreferrer">Politicas de privacidad</a></span> &nbsp;
                 <button type="submit" class="waves-effect waves-light btn-large">
-                    <!-- <img src="/public/img/send.svg" class="middle" width="15px"> -->
+     
                     Enviar datos
                 </button>
 

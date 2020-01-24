@@ -3,8 +3,7 @@
 
 <head>
     <?php $title_website = "Politicas de privacidad"; ?>
-    <?php include '../backend/template_parts/head.php'; ?>
-    <link rel="stylesheet" href="../public/src/css/fold.css">
+    <?php include '../backend/template_parts/head_subpages.php'; ?>
 </head>
 
 <body>
