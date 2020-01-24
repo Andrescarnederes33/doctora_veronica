@@ -5,24 +5,24 @@
     <hr style="border: 0;border-bottom: 1px solid #ddd;">
     <br>
     <div class="input-field col s6">
-          <input id="name" type="text" class="validate" required>
+          <input id="name" name="nombre" type="text" class="validate" required>
           <label for="name">Nombre completo</label>
     </div>
 
     <div class="input-field col s6">
-          <input id="tel" type="tel" class="validate" required>
+          <input id="tel" name="celular" type="tel" class="validate" required>
           <!-- <input type="tel" name="celular" placeholder="Celular" required=""> -->
           <label for="tel">Celular</label>
     </div>
     
 
     <div class="input-field col s6">
-        <input id="email" type="tel" class="validate" required>
+        <input id="email" name="correo" type="tel" class="validate" required>
           <label for="email">Correo</label>
     </div>
     <!-- The second value will be selected initially -->
      <div>
-    <select>
+    <select name="tipo_consulta">
     <option value="Consulta Ginecológica">Consulta Ginecológica</option>
         <option value="Consulta Obstetricia y control prenatal">Consulta Obstetricia y control
             prenatal</option>
@@ -45,7 +45,7 @@
   </div>
 
   <div class="input-field col s12">
-          <textarea id="textarea1" class="materialize-textarea"></textarea>
+          <textarea id="textarea1" name="mensaje" class="materialize-textarea"></textarea>
           <label for="textarea1">Textarea</label>
         </div>
     <!-- <textarea name="mensaje" placeholder="Mensaje"></textarea> -->
