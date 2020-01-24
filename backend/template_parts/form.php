@@ -1,6 +1,6 @@
 <form action="./rC.php" method="POST">
     <div align="center">
-        <h4 class="m0"> Déjanos contactarte</h4>
+        <h4 class="m0"> Déjame contactarte</h4>
     </div>
     <hr style="border: 0;border-bottom: 1px solid #ddd;">
     <br>

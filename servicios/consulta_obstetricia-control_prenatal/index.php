@@ -45,11 +45,15 @@
 
             </div>
         </div>
+
+        <br><br>
+        <div class="services_form_box">
+        <?php include '../../backend/template_parts/form.php'; ?>
+        </div>
+
     </div>
 
-    <br>
-    <br>
-
+   
     <?php include '../../backend/template_parts/footer.php'; ?>
 
     <!-- Compiled and minified JavaScript -->
