@@ -28,7 +28,7 @@
             <div class="col s12 m6">
                 <br>
                 <div>
-                    <img src="../../public/src/img/servicios/consulta_anticoncepcion.jpg" alt="" width="100%">
+                    <img src="../../public/src/img/servicios/consulta_ginecologica.jpg" alt="" width="100%">
                 </div>
             </div>
             <div class="col s12 m6">

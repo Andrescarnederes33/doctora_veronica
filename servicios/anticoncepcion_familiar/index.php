@@ -2,22 +2,28 @@
 <html lang="es">
 
 <head>
-    <?php $title_website = "An" ?>
+    <?php $title_website = "Anticoncepción familiar" ?>
     <?php include '../../backend/template_parts/head_subpages.php'; ?>
 </head>
 
 <body>
     <div class="nav_services_personalized">
         <div class="box_nav_personalized">
-        <a href="#!">
-                    <img src="../../public/src/img/logo.png" alt="" width="160px">
-                </a>    
-        </div>        
+            <a href="#!">
+                <img src="../../public/src/img/logo.png" alt="" width="160px">
+            </a>
+        </div>
         <div>
             <ul style="line-height: 1;">
-                <li><p>Doctora Verónica García Bedoya. </p></li>
-                <li><p>Teléfono <a href="tel:">(4) 313 25 05</a> / <a href="tel:">(313) 651 10 39</a></p></li>
-                <li><p>Medellín-Colombia </p></li>
+                <li>
+                    <p>Doctora Verónica García Bedoya. </p>
+                </li>
+                <li>
+                    <p>Teléfono <a href="tel:">(4) 313 25 05</a> / <a href="tel:">(313) 651 10 39</a></p>
+                </li>
+                <li>
+                    <p>Medellín-Colombia </p>
+                </li>
             </ul>
         </div>
     </div>
@@ -34,13 +40,16 @@
             <div class="col s12 m6">
 
                 <div>
-                    <h3>CONSULTA GINECOLÓGICA</h3>
-                    <p> Convertir ese momento de compartir tus inquietudes de salud íntima con un especialista que te
-                        brinda profesionalismo y confianza dándote mayor seguridad. "Es de suma importancia que cada
-                        mujer aprenda a comprender su cuerpo, de esta manera puede lograr conocer si existe alguna señal
-                        de alerta o cambio en él".</p>
+                    <h3>Anticoncepción familiar</h3>
+                    <p>
+                        Planificar el número de hijos que deseas y determinar el intervalo temporal entre embarazos
+                        corresponden a una excelente forma para hacer control de tus capacidades y necesidades en el
+                        aspecto familiar y maternal. Este objetivo se logra mediante la aplicación de los diferentes
+                        métodos anticonceptivos existentes y su adecuado uso, según las necesidades de cada pareja.
+                    </p>
 
-                        <a class="waves-effect waves-light btn-large"><i class="material-icons right">insert_invitation</i>Agendar cita</a>
+                    <a class="waves-effect waves-light btn-large"><i
+                            class="material-icons right">insert_invitation</i>Agendar cita</a>
                     <!-- <a href="#!" class="btn btn-success"> <img src="/img/contacto_white.svg" width="25" height="25"> Agendar cita</a> -->
                 </div>
 
