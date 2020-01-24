@@ -264,3 +264,14 @@ audio {
 /* .form_contact_api{
 
 } */
+.box_thanks{
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-image: url(/public/src/img/gracias.png);
+  background-size: cover
+  /* color: #fff */
+}

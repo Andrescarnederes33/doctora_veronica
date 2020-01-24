@@ -1,4 +1,4 @@
-<form action="/send.php" method="POST">
+<form action="/backend/send.php" method="POST">
     <div align="center">
         <h4 class="m0"> Déjame contactarte</h4>
     </div>
