@@ -48,6 +48,7 @@
             </div>
 
         </div>
+        <br>
     </section>
     <br><br>
 
@@ -70,7 +71,7 @@
                                 </p>
                             </div>
                             <div class="card-action">
-                                <a href="#">Leer articulo</a>
+                                <a href="#" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
                             </div>
                         </div>
                     </div>
@@ -92,7 +93,7 @@
                                 </p>
                             </div>
                             <div class="card-action">
-                                <a href="#">Leer articulo</a>
+                                <a href="#" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
                             </div>
                         </div>
                     </div>
@@ -113,7 +114,7 @@
                                 </p>
                             </div>
                             <div class="card-action">
-                                <a href="#">Leer articulo</a>
+                                <a href="#" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
                             </div>
                         </div>
                     </div>

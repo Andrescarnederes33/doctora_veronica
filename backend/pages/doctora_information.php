@@ -9,7 +9,7 @@
         </div>
         <div class="col m6 s12">
             <div>
-                    <h3>Doc. Verónica Garcia</h3>
+                    <h3>Dra. Verónica Garcia</h3>
                 <p>
                     La Dra. Verónica Bedoya García. Es una especialista destacada en ginecología y obstetricia.
                     <br><br>

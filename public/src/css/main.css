@@ -1,3 +1,6 @@
+body{
+  color:#444
+}
 /* PAGINA HOME */
 
 audio {
@@ -166,7 +169,7 @@ audio {
 /* PAGINA BLOG */
 
 #fold_blog {
-  height: 100vh;
+  height: 70vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -237,10 +240,23 @@ audio {
   margin: 0 auto;
   max-width: 65%;
 }
-@media(max-width:900px){
+
+@media(max-width:900px) {
   .services_form_box {
     max-width: 100%
-  } 
+  }
 }
 
 /* SERVICIOS */
+
+.form {
+  margin: 0 auto;
+  max-width: 65%
+}
+
+@media(max-width:900px) {
+  .form {
+    /* margin: 0 auto; */
+    max-width: 100%
+  }
+}

@@ -28,7 +28,7 @@
                                                         <span class="card-title activator grey-text text-darken-4">GINECOLOGÍA
                                                                 LÁSER<i
                                                                         class="material-icons right">more_vert</i></span>
-                                                        <p><a href="#">AGENDAR CITA</a></p>
+                                                        <p><a href="/contacto?service=0" target="_blank" rel="noopener noreferrer nofollow">AGENDAR CITA</a></p>
                                                 </div>
                                                 <div class="card-reveal">
                                                         <span class="card-title grey-text text-darken-4">GINECOLOGÍA
@@ -36,7 +36,7 @@
                                                         <p>Convertir ese momento de compartir tus inquietudes de salud
                                                                 íntima con un especialista que te brinda profesionalismo
                                                                 y confianza dándote mayor seguridad...</p>
-                                                        <a href="#" class="item_link_info">Más información</a>
+                                                        <a href="/contacto?service=0" class="item_link_info">Más información</a>
                                                 </div>
                                         </div>
                                 </div>
