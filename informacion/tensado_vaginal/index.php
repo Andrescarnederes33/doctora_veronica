@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <?php $title_website = "Perineoplastia" ?>
+    <?php $title_website = "Tensado vaginal" ?>
     <?php include '../../backend/template_parts/head_subpages.php'; ?>
 </head>
 
@@ -15,14 +15,16 @@
             <div class="col s12 m6">
                 <br>
                 <div>
-                    <img src="../../public/src/img/informacion/perineo.jpg" alt="" width="100%">
+                    <img src="../../public/src/img/informacion/tensado.jpg" alt="" width="100%">
                 </div>
             </div>
             <div class="col s12 m6">
 
                 <div>
-                <h3>Perineoplastia</h3>
-                <p>Es la reparación de la zona inmediatamente cercana a la apertura vaginal. No solo se retiran los excesos de piel y cicatrices, sino que se da una mayor tensión a la zona, permitiendo recuperar la función original de esta zona eliminando la sensación de pesadez y falta de tono. </p>
+                <h3>Tensado vaginal</h3>
+               <p>
+               Es un procedimiento médico no quirúrgico, no invasivo, que utiliza el exclusivo efecto térmico de la luz láser para la contracción y tensado del canal vaginal, y así crear una disminución en su diámetro
+               </p>
                     <a href="/contacto?q=0" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i
                             class="material-icons right">insert_invitation</i>Agendar cita</a>
                     <!-- <a href="#!" class="btn btn-success"> <img src="/img/contacto_white.svg" width="25" height="25"> Agendar cita</a> -->

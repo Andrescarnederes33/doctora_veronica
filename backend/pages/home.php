@@ -145,7 +145,8 @@
                                                                 tratar distintos problemas de índole funcional y
                                                                 estético relacionados con la parte intima de la mujer...
                                                         </p>
-                                                        <a href="/servicios/ginecologia_laser/" class="item_link_info">Más información</a>
+                                                        <a href="/servicios/ginecologia_laser/"
+                                                                class="item_link_info">Más información</a>
                                                 </div>
                                         </div>
                                 </div>
@@ -170,7 +171,8 @@
                                                                 grandes cambios que se ven reflejados en síntomas que
                                                                 pueden resultar molestos para muchas de ellas...
                                                         </p>
-                                                        <a href="/servicios/menopausia/" target="_blank" rel="noopener noferrer nofollow"
+                                                        <a href="/servicios/menopausia/" target="_blank"
+                                                                rel="noopener noferrer nofollow"
                                                                 class="item_link_info">Más información</a>
                                                 </div>
                                         </div>
@@ -198,7 +200,9 @@
                                                                 la testosterona de manera regular, en muy pequeñas dosis
                                                                 y de manera constante...
                                                         </p>
-                                                        <a href="/post/rejuv_chip/" target="_blank" rel="noopener noferrer nofollow" class="item_link_info">Más información</a>
+                                                        <a href="/post/rejuv_chip/" target="_blank"
+                                                                rel="noopener noferrer nofollow"
+                                                                class="item_link_info">Más información</a>
                                                 </div>
                                         </div>
                                 </div>
@@ -256,9 +260,11 @@
                                         <br>
                                 </ul>
                                 <div>
-                                        <a href="http://wa.me//57" target="_blank" rel="noopener noferrer nofollow" class="waves-effect waves-light btn-large"><i
+                                        <a href="http://wa.me//57" target="_blank" rel="noopener noferrer nofollow"
+                                                class="waves-effect waves-light btn-large"><i
                                                         class="material-icons right">add_shopping_cart</i>Ventas</a>
-                                        <a href="/post/rejuv_chip/" class="waves-effect waves-light btn-large">Más información</a>
+                                        <a href="/post/rejuv_chip/" class="waves-effect waves-light btn-large">Más
+                                                información</a>
                                 </div>
                         </div>
                 </div>
@@ -282,7 +288,8 @@
                                                         relaciones sexuales y/o dolor o ardor para orinar. </p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="/informacion/artrofia_genital/" target="_blank" rel="noopener noferrer nofollow">Más información</a>
+                                                <a href="/informacion/artrofia_genital/" target="_blank"
+                                                        rel="noopener noferrer nofollow">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -303,7 +310,8 @@
                                                 </p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="/informacion/incontinencia_urinaria/" target="_blank" rel="noopener noferrer nofollow">Más información</a>
+                                                <a href="/informacion/incontinencia_urinaria/" target="_blank"
+                                                        rel="noopener noferrer nofollow">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -324,7 +332,8 @@
                                                 </p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="/informacion/lesiones_vph/" target="_blank" rel="noopener noferrer nofollow">Más información</a>
+                                                <a href="/informacion/lesiones_vph/" target="_blank"
+                                                        rel="noopener noferrer nofollow">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -337,11 +346,14 @@
                                 <div class="card-stacked">
                                         <div class="card-content">
                                                 <h5>TENSADO VAGINAL</h5>
-                                                <p>I am a very simple card. I am good at containing small bits of
-                                                        information.</p>
+                                                <p>Es un procedimiento médico no quirúrgico, no invasivo, que utiliza el
+                                                        exclusivo efecto térmico de la luz láser para la contracción y
+                                                        tensado del canal vaginal, y así crear una disminución en su
+                                                        diámetro</p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="/informacion/tensado_vaginal/" target="_blank" rel="noopener noferrer nofollow">Más información</a>
+                                                <a href="/informacion/tensado_vaginal/" target="_blank"
+                                                        rel="noopener noferrer nofollow">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -354,11 +366,13 @@
                                 <div class="card-stacked">
                                         <div class="card-content">
                                                 <h5>LABIOPLASTIA</h5>
-                                                <p>I am a very simple card. I am good at containing small bits of
-                                                        information.</p>
+                                                <p> Reducción de los labios menores. Cirugía íntima que ayuda a mejorar
+                                                        el aspecto estético de los labios menores, en muchos casos
+                                                        corrigiendo también funcionalidades del órgano.</p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="/informacion/labioplastia/" target="_blank" rel="noopener noferrer nofollow">Más información</a>
+                                                <a href="/informacion/labioplastia/" target="_blank"
+                                                        rel="noopener noferrer nofollow">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -371,11 +385,15 @@
                                 <div class="card-stacked">
                                         <div class="card-content">
                                                 <h5>BLANQUEAMIENTO GENITAL</h5>
-                                                <p>I am a very simple card. I am good at containing small bits of
-                                                        information.</p>
+                                                <p>
+                                                        Es un nuevo tratamiento estético que combina el láser CO2 con un
+                                                        peeling químico despigmentante, con el fin de alcanzar un color
+                                                        rosado o aclarar la zona íntima como tú la deseas.
+                                                </p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="/informacion/blanqueamiento_genital/" target="_blank" rel="noopener noferrer nofollow">Más información</a>
+                                                <a href="/informacion/blanqueamiento_genital/" target="_blank"
+                                                        rel="noopener noferrer nofollow">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -388,10 +406,15 @@
                                 <div class="card-stacked">
                                         <div class="card-content">
                                                 <h5>PERINEOPLASTIA</h5>
-                                                <p>Es la reparación de la zona inmediatamente cercana a la apertura vaginal. No solo se retiran los excesos de piel y cicatrices, sino que se da una mayor tensión a la zona, permitiendo recuperar la función original de esta zona eliminando la sensación de pesadez y falta de tono. </p>
+                                                <p>Es la reparación de la zona inmediatamente cercana a la apertura
+                                                        vaginal. No solo se retiran los excesos de piel y cicatrices,
+                                                        sino que se da una mayor tensión a la zona, permitiendo
+                                                        recuperar la función original de esta zona eliminando la
+                                                        sensación de pesadez y falta de tono. </p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="/informacion/perinoplastia/" target="_blank" rel="noopener noferrer nofollow"></a>Más información</a>
+                                                <a href="/informacion/perinoplastia/" target="_blank"
+                                                        rel="noopener noferrer nofollow">Más información</a>
                                         </div>
                                 </div>
                         </div>
