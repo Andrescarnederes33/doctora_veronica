@@ -1,12 +1,4 @@
-<style>
-    /* #nuevos_post{} */
-    .grid_nuevos_post {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: 1fr;
-        grid-gap: 0 20px
-    }
-</style>
+
 <div class="container">
     <section id="fold_blog">
         <div class="row">
@@ -30,7 +22,7 @@
             </div>
         </div>
     </section>
-    <br><br>
+    <!-- <br><br> -->
     <section id="portafolio_empresarial">
         <div>
             <h3>Portafolio médico y empresarial</h3>

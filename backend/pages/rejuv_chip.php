@@ -1,70 +1,11 @@
-<style>
-    /* #fold_rejuv_chip {
-    
-    } */
-
-    .image_fold {
-        width: 100%;
-        height: 100vh;
-        background-image: url(/public/src/img/servicios/rejuv_chip_ordenador.png);
-        background-size: cover;
-        background-repeat: no-repeat
-    }
-
-    .central_text_rejuv_chip {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center
-    }
-
-    .box_fold_rejuv_chip {
-        text-align: center
-    }
-
-    #bg_aplication_rejuv_chip {
-        width: 100%;
-        height: 500px;
-        background-image: url(/public/src/img/section_rejuv_chip.png);
-        background-size: cover;
-        background-repeat: no-repeat
-    }
-
-    .grid_doctora_presentation {
-        height: inherit;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr;
-        grid-gap: 0;
-        color: #fff
-    }
-
-
-    .bg_benefits_rejuv_chip {
-        background-image: url(/public/src/img/servicios/beneficios_rejuv_chip.png);
-        background-repeat: no-repeat;
-        background-size: cover;
-        height: 400px;
-        /* display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center */
-    }
-
-
-    .list_items {
-        margin: 0 10px;
-        list-style-image: url('public/src/img/check.png');
-    }
-</style>
 <section id="fold_rejuv_chip">
     <div class="image_fold central_text_rejuv_chip">
         <div class="box_fold_rejuv_chip">
             <span>
-                <h2 style="margin:0;padding:0;">Rejuv Chip</h2>
+                <h2 style="margin:0;padding:0;color:#fff;">Rejuv Chip</h2>
             </span>
             <span>
-                <p>
+                <p style="color:#fff;">
                     Disfruta de una serie de beneficios para la salud
                 </p>
             </span>
@@ -159,7 +100,7 @@
         <div class="grid_doctora_presentation">
 
             <div></div>
-            <div style="display: flex;flex-direction: column;align-items: flex-start;justify-content: center;">
+            <div class="presentation_doctora">
                 <h3>DRA. Verónica Garcia Bedoya</h3>
                 <h4>Médica ginecóloga y obstetra</h4>
                 <p>

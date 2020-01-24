@@ -1,20 +1,3 @@
-<style>
-   audio{width:50%;margin:0 auto;border-radius:50px;}
-        
-        @media(max-width:900px){
-            audio{
-                width:90%;
-            }
-        }
-        .intro_entrevista{
-            max-width: 660px;text-align: justify;
-        }
-    @media(max-width:900px){
-        .intro_entrevista{
-            max-width: 330px;text-align: justify;
-        }
-    }    
-  </style>
 <section id="fold">
         <div id="fold_image">
 
