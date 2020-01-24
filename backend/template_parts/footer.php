@@ -17,7 +17,17 @@
             <div class="row">
               <div class="col l6 s12">
                 <h5 class="white-text">Dra. Verónica Garcia Bedoya</h5>
-                <p class="grey-text text-lighten-4"> La Dra. Verónica Bedoya García. Es una especialista destacada en ginecología y obstetricia ...</p>
+                <p class="grey-text text-lighten-4"> 
+               
+                    Actualmente su consultorio privado se encuentra en la Clínica Medellín, Calle 7 #39-290, consultorio
+                    610. Es una mujer apasionada por la asesoría y acompañamiento de la mujer en cada una de sus etapas
+                    de desarrollo; involucrando temas como salud y vida sexual, maternidad, menopausia y adolescencia.
+                    <br><br>
+                    Gracias a esto la Dra. Verónica Bedoya García. es reconocida como una de las mejores especialistas
+                    en Ginecología en Medellín, Colombia.
+
+                
+              </p>
               </div>
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Contacto</h5>

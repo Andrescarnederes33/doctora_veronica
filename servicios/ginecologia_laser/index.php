@@ -29,7 +29,7 @@
                         de forma no invasiva.
                     </p>
 
-                    <a class="waves-effect waves-light btn-large"><i
+                    <a href="/contacto?q=0" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i
                             class="material-icons right">insert_invitation</i>Agendar cita</a>
                     <!-- <a href="#!" class="btn btn-success"> <img src="/img/contacto_white.svg" width="25" height="25"> Agendar cita</a> -->
                 </div>

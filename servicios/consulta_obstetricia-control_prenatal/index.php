@@ -26,7 +26,7 @@
                     La primera visita a control prenatal se realiza comúnmente en el primer trimestre, antes de completar las 12 semanas de edad gestacional. Uno de los objetivos de la primera visita es identificar y modificar los factores de riesgo tanto médicos como sociales con el fin de mejorar las condiciones del embarazo, tanto para la madre como para el feto. También es importante educar con buenos hábitos que beneficien el desarrollo del bebe, tratando de mejorar el resultado perinatal y disminuir la morbilidad materno-fetal. 
                     </p>
 
-                        <a class="waves-effect waves-light btn-large"><i class="material-icons right">insert_invitation</i>Agendar cita</a>
+                        <a href="/contacto?q=0" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i class="material-icons right">insert_invitation</i>Agendar cita</a>
                     <!-- <a href="#!" class="btn btn-success"> <img src="/img/contacto_white.svg" width="25" height="25"> Agendar cita</a> -->
                 </div>
 
