@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php $title_website = "Blog -> dispositivos intrauterinos" ?>
+    <?php $title_website = "Blog -> ¿Viajar en embarazo?" ?>
     <?php include '../../backend/template_parts/head_subpages.php'; ?>
 </head>
 
@@ -12,7 +12,7 @@
             <div class="col s12">
                 <!-- <a href="/" class="breadcrumb">&nbsp;Dra. Verónica Garcia Bedoya</a> -->
                 <a href="/blog" class="breadcrumb">&nbsp;Blog</a>
-                <a href="./" class="breadcrumb">Dispositivo intrauterino</a>
+                <a href="./" class="breadcrumb">¿Viajar en embarazo?</a>
             </div>
         </div>
     </nav>
