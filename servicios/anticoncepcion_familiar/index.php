@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <?php $title_website = "Blog -> dispositivos intrauterinos" ?>
+    <?php include '../../backend/template_parts/head_subpages.php'; ?>
+</head>
+
+<body>
+    <nav>
+    <ul>
+        <li>1</li>
+        <li>
+            <span>1</span>
+        </li>
+    </ul>    
+  </nav>
+
+    <div class="container">
+        <div class="row">
+            <!-- <div class="col s12">This div is 12-columns wide on all screen sizes</div> -->
+            <div class="col s12 m6">
+                <br>
+                <div>
+                <img src="../../public/src/img/servicios/consulta_anticoncepcion.jpg" alt="" width="100%">
+                </div>
+            </div>
+            <div class="col s12 m6">
+
+                <div>
+                    <h3>CONSULTA GINECOLÓGICA</h3>
+                    <p> Convertir ese momento de compartir tus inquietudes de salud íntima con un especialista que te
+                        brinda profesionalismo y confianza dándote mayor seguridad. "Es de suma importancia que cada
+                        mujer aprenda a comprender su cuerpo, de esta manera puede lograr conocer si existe alguna señal
+                        de alerta o cambio en él".</p>
+                    <!-- <a href="#!" class="btn btn-success"> <img src="/img/contacto_white.svg" width="25" height="25"> Agendar cita</a> -->
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <br>
+
+    <section>
+            <div id="bg_aplication_rejuv_chip">
+
+                <div class="grid_doctora_presentation">
+
+                    <div></div>
+                    <div class="presentation_doctora">
+                        <h3>DRA. Verónica Garcia Bedoya</h3>
+                        <h4>Médica ginecóloga y obstetra</h4>
+                        <p>
+                            La Doctora Verónica García Bedoya es una mujer apasionada por la asesoría y acompañamiento
+                            de la
+                            mujer
+                            en cada una de sus etapas de desarrollo involucrando temas como salud y vida sexual,
+                            maternidad,
+                            menopausia y adolescencia.
+                        </p>
+                        <a class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Más
+                            información</a>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="motivation_shop" style="padding: 70px 50px;">
+                <h3>Lista para tratar la menopausia y aumentar tu vitalidad de manera natural</h3>
+                <p>Con un clic recibe mas información de manera gratuita</p>
+                <a class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Agendar una
+                    cita</a>
+            </div>
+        </section>
+
+    <?php include '../../backend/template_parts/footer.php'; ?>
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="../../public/src/js/materialize.min.js"></script>
+    <script>
+        M.AutoInit();
+    </script>
+</body>
+
+</html>
