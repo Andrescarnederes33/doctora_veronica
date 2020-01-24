@@ -68,7 +68,7 @@
     
 
     <?php include '../../backend/template_parts/footer.php'; ?>
-
+    
     <!-- Compiled and minified JavaScript -->
     <script src="../../public/src/js/materialize.min.js"></script>
     <script>

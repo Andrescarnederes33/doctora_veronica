@@ -34,3 +34,19 @@
   <li><a href="badges.html"><i class="material-icons">local_phone</i></a></li>
   <li><a href="collapsible.html"><i class="material-icons">event</i></a></li>
 </ul>
+
+
+
+  <!-- Modal Trigger -->
+  <a class="btn modal-trigger hide" href="#modal1">Modal</a>
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <h4>Gracias!!</h4>
+      <p>Pronto la Doctora Verónica se comunicará contigo</p>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+    </div>
+  </div>
