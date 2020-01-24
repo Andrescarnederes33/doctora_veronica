@@ -1,14 +1,14 @@
 
 
 <div class="fixed-action-btn">
-  <a class="btn-floating btn-large black">
+  <a class="btn-floating btn-large deep-purple">
     <i class="large material-icons">contacts</i>
   </a>
   <ul>
     <!-- <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
     <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li> -->
-    <li><a href="http://wa.me//57" target="_blank" rel="noopener noreferrer nofollow" class="btn-floating black"><i class="material-icons">chat</i></a></li>
-    <li><a href="tel:3136511039" class="btn-floating black"><i class="material-icons">phone</i></a></li>
+    <li><a href="http://wa.me//57" target="_blank" rel="noopener noreferrer nofollow" class="btn-floating deep-purple"><i class="material-icons">chat</i></a></li>
+    <li><a href="tel:3136511039" class="btn-floating deep-purple"><i class="material-icons">phone</i></a></li>
   </ul>
 </div>
 
