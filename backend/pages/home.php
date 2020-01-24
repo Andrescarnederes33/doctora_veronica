@@ -2,8 +2,8 @@
         <div id="fold_image">
                 <div class="grid_fold_image">
                         <div></div>
-                        <div style="display:flex;flex-direction:column;align-items:center;justify-content:center">
-                                <div style="max-width:360px;margin:0 auto;background-color:#fff;padding:30px 15px">
+                        <div class="form_fold">
+                                <div class="box_form_fold">
                                         <?php include './backend/template_parts/form.php'; ?></div>
                         </div>
                 </div>
@@ -263,8 +263,8 @@
                                         <a href="http://wa.me//57" target="_blank" rel="noopener noferrer nofollow"
                                                 class="waves-effect waves-light btn-large"><i
                                                         class="material-icons right">add_shopping_cart</i>Ventas</a>
-                                        <a href="/post/rejuv_chip/" class="waves-effect waves-light btn-large">Más
-                                                información</a>
+                                        <a href="/post/rejuv_chip/" class="waves-effect waves-light btn-large"><i
+                                                        class="material-icons right">info</i>Más info</a>
                                 </div>
                         </div>
                 </div>

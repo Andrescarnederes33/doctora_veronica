@@ -5,6 +5,26 @@ body {
 
 /* PAGINA HOME */
 
+.form_fold {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+@media(max-width:900px) {
+    .form_fold {
+        display: none
+    }
+}
+
+.box_form_fold {
+    max-width: 360px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px 15px
+}
+
 audio {
     width: 50%;
     margin: 0 auto;
