@@ -341,7 +341,7 @@
                                                         information.</p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="#">Más información</a>
+                                                <a href="/informacion/tensado_vaginal/" target="_blank" rel="noopener noferrer nofollow">Más información</a>
                                         </div>
                                 </div>
                         </div>
@@ -388,11 +388,10 @@
                                 <div class="card-stacked">
                                         <div class="card-content">
                                                 <h5>PERINEOPLASTIA</h5>
-                                                <p>I am a very simple card. I am good at containing small bits of
-                                                        information.</p>
+                                                <p>Es la reparación de la zona inmediatamente cercana a la apertura vaginal. No solo se retiran los excesos de piel y cicatrices, sino que se da una mayor tensión a la zona, permitiendo recuperar la función original de esta zona eliminando la sensación de pesadez y falta de tono. </p>
                                         </div>
                                         <div class="card-action">
-                                                <a href="# target="_blank" rel="noopener noferrer nofollow"">Más información</a>
+                                                <a href="/informacion/perinoplastia/" target="_blank" rel="noopener noferrer nofollow"></a>Más información</a>
                                         </div>
                                 </div>
                         </div>

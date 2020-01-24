@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <?php $title_website = "Incotinencia urinaria" ?>
+    <?php $title_website = "Labioplastia" ?>
     <?php include '../../backend/template_parts/head_subpages.php'; ?>
 </head>
 
@@ -15,15 +15,15 @@
             <div class="col s12 m6">
                 <br>
                 <div>
-                    <img src="../../public/src/img/informacion/incontinencia-urinaria.jpg" alt="" width="100%">
+                    <img src="../../public/src/img/informacion/labioplastia.jpg" alt="" width="100%">
                 </div>
             </div>
             <div class="col s12 m6">
 
                 <div>
-                <h3>Incotinencia urinaria</h3>
+                <h3>Labioplastia</h3>
                     <p>
-                    Procedimiento no quirúrgico para mejorar los síntomas de la menopausia a nivel vaginal como resequedad, sensacion de escozor, picor, irritacion o quemazon en la vagina, dolor con las relaciones sexuales y/o dolor o ardor para orinar. 
+                    Reducción de los labios menores. Cirugía íntima que ayuda a mejorar el aspecto estético de los labios menores, en muchos casos corrigiendo también funcionalidades del órgano. 
                     </p>
 
                     <a href="/contacto?q=0" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i

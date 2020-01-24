@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <?php $title_website = "Incotinencia urinaria" ?>
+    <?php $title_website = "Perineoplastia" ?>
     <?php include '../../backend/template_parts/head_subpages.php'; ?>
 </head>
 
@@ -15,19 +15,19 @@
             <div class="col s12 m6">
                 <br>
                 <div>
-                    <img src="../../public/src/img/informacion/incontinencia-urinaria.jpg" alt="" width="100%">
+                    <img src="../../public/src/img/informacion/perineo.jpg" alt="" width="100%">
                 </div>
             </div>
             <div class="col s12 m6">
 
                 <div>
-                <h3>Incotinencia urinaria</h3>
+                <h3>Perineoplastia</h3>
                     <p>
-                    Procedimiento no quirúrgico para mejorar los síntomas de la menopausia a nivel vaginal como resequedad, sensacion de escozor, picor, irritacion o quemazon en la vagina, dolor con las relaciones sexuales y/o dolor o ardor para orinar. 
+                    Es la reparación de la zona inmediatamente cercana a la apertura vaginal. No solo se retiran los excesos de piel y cicatrices, sino que se da una mayor tensión a la zona, permitiendo recuperar la función original de esta zona eliminando la sensación de pesadez y falta de tono.                     
                     </p>
 
-                    <a href="/contacto?q=0" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i
-                            class="material-icons right">insert_invitation</i>Agendar cita</a>
+                    <a href="#!" class="waves-effect waves-light btn-large">x</a>
+                    <a class="material-icons right">insert_invitation</i>Agendar cita
                     <!-- <a href="#!" class="btn btn-success"> <img src="/img/contacto_white.svg" width="25" height="25"> Agendar cita</a> -->
                 </div>
 

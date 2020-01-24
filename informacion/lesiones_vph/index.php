@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <?php $title_website = "Incotinencia urinaria" ?>
+    <?php $title_website = "Lesiones de VPH" ?>
     <?php include '../../backend/template_parts/head_subpages.php'; ?>
 </head>
 
@@ -15,15 +15,15 @@
             <div class="col s12 m6">
                 <br>
                 <div>
-                    <img src="../../public/src/img/informacion/incontinencia-urinaria.jpg" alt="" width="100%">
+                    <img src="../../public/src/img/informacion/lesionesPVH.jpg" alt="" width="100%">
                 </div>
             </div>
             <div class="col s12 m6">
 
                 <div>
-                <h3>Incotinencia urinaria</h3>
+                <h3>Lesiones de VPH</h3>
                     <p>
-                    Procedimiento no quirúrgico para mejorar los síntomas de la menopausia a nivel vaginal como resequedad, sensacion de escozor, picor, irritacion o quemazon en la vagina, dolor con las relaciones sexuales y/o dolor o ardor para orinar. 
+                    Procedimiento de consultorio para vaporizar cualquier tipo de lesión por VPH (VIRUS PAPILOMA HUMANO), tipo verruga, a nivel de cuello uterino, vagina o vulva. Siendo el láser un tratamiento de actualidad. 
                     </p>
 
                     <a href="/contacto?q=0" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i
