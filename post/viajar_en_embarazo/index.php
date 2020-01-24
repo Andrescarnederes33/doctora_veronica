@@ -22,7 +22,7 @@
             <img src="../../public/src/img/post/viajar_en_avion.jpeg" alt="" width="80%">
         </div>
 
-        <div style="margin:0 auto;max-width:750px;">
+        <div class="container_post">
 
             <p>
 
