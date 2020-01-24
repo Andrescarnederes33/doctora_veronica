@@ -208,3 +208,19 @@ audio {
 }
 
 /* POST */
+
+/* SERVICIOS */
+.nav_services_personalized{
+  padding: 10px 10px;display: grid;grid-template-columns: 1fr 6fr;grid-template-rows: 1fr;grid-gap: 0;box-shadow:0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+@media(max-width:900px){
+  .nav_services_personalized{
+    grid-template-columns: 1fr 1fr
+  }
+}
+
+.box_nav_personalized{
+  display: flex;flex-direction: column;align-items: flex-start;justify-content: center;
+}
+
+/* SERVICIOS */
