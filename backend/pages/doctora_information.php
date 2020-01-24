@@ -30,7 +30,7 @@
                     en Ginecología en Medellín, Colombia.
 
                 </p>
-                <a class="waves-effect waves-light btn-large"><i class="material-icons right">insert_invitation</i>Agendar cita</a>
+                <a href="/contacto?q=0" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i class="material-icons right">insert_invitation</i>Agendar cita</a>
             </div>
 
         </div>

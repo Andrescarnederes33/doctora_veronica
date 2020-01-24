@@ -109,7 +109,7 @@
                     en cada una de sus etapas de desarrollo involucrando temas como salud y vida sexual, maternidad,
                     menopausia y adolescencia.
                 </p>
-                <a class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Más
+                <a href="http://wa.me//57" target="blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Más
                     información</a>
             </div>
 
@@ -121,6 +121,6 @@
     <div class="motivation_shop" style="padding: 70px 50px;">
         <h3>Lista para tratar la menopausia y aumentar tu vitalidad de manera natural</h3>
         <p>Con un clic recibe mas información de manera gratuita</p>
-        <a class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Agendar una cita</a>
+        <a class="waves-effect waves-light btn-large"><i class="material-icons right">add_shopping_cart</i>Agendar una cita</a>
     </div>
 </section>
