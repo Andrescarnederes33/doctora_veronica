@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <?php $title_website = "Gracias"; ?>
-    <?php include '../backend/template_parts/head.php_subpages'; ?>
+    <?php include '../backend/template_parts/head_subpages.php'; ?>
+
 </head>
 
 <body>
