@@ -9,6 +9,10 @@
                 <p>
                     Entérate de todas las noticias sobre la salud íntima de la mujer
                 </p>
+                <br>
+                <div>
+                    <a class="waves-effect waves-light btn-small"><i class="material-icons right">email</i>Suscríbete</a>
+                </div>
             </div>
             <div class="col m6 s12">
                 <br>
@@ -65,13 +69,13 @@
                             </div>
                             <div class="card-content">
                                 <p>
-                                    JUL 17 / VIAJAR EN AVIÓN CUANDO ESTAMOS
+                                    JUL 17 - 2019 / VIAJAR EN AVIÓN CUANDO ESTAMOS
                                     EN
                                     EMBARAZO
                                 </p>
                             </div>
                             <div class="card-action">
-                                <a href="#" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
+                                <a href="/post/viajar_en_embarazo" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
                             </div>
                         </div>
                     </div>
@@ -88,12 +92,12 @@
                             </div>
                             <div class="card-content">
                                 <p>
-                                    JUN 18 / DISPOSITIVOS INTRAUTERINOS
+                                    JUN 18 - 2019 / DISPOSITIVOS INTRAUTERINOS
                                     (DIU)
                                 </p>
                             </div>
                             <div class="card-action">
-                                <a href="#" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
+                                <a href="/post/dispositivos_intrauterinos" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
                             </div>
                         </div>
                     </div>
@@ -110,11 +114,11 @@
                             </div>
                             <div class="card-content">
                                 <p>
-                                    5 MAYO / MENOPAUSIA
+                                    5 MAYO - 2019 / MENOPAUSIA
                                 </p>
                             </div>
                             <div class="card-action">
-                                <a href="#" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
+                                <a href="/post/menopausia/" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
                             </div>
                         </div>
                     </div>
@@ -131,28 +135,28 @@
 
             <div class="divider"></div>
             <div class="section">
-                <h5> JUL 17 / VIAJAR EN AVIÓN CUANDO ESTAMOS EN EMBARAZO</h5>
+                <h5> JUL 17 - 2019 / VIAJAR EN AVIÓN CUANDO ESTAMOS EN EMBARAZO</h5>
                 <p>
                     Viajar en avión cuando estamos en embarazo</p>
-                <a href="#!" class="item_link_info" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
+                <a href="/post/viajar_en_embarazo" class="item_link_info" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
             </div>
             <div class="divider"></div>
             <div class="section">
-                <h5> JUN 18 / DISPOSITIVOS INTRAUTERINOS (DIU) </h5>
+                <h5> JUN 18 - 2019 / DISPOSITIVOS INTRAUTERINOS (DIU) </h5>
                 <p>Dispositivos intrauterinos (DIU)</p>
-                <a href="#!" class="item_link_info" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
+                <a href="/post/dispositivos_intrauterinos" class="item_link_info" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
             </div>
             <div class="divider"></div>
             <div class="section">
-                <h5> MAY 05 / MENOPAUSIA</h5>
+                <h5> MAY 05 - 2019 / MENOPAUSIA</h5>
                 <p>Más información sobre la menopausia</p>
-                <a href="#!" class="item_link_info" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
+                <a href="/post/menopausia/" class="item_link_info" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
             </div>
             <div class="divider"></div>
             <div class="section">
-                <h5> MAY 06 / REJUV CHIP </h5>
+                <h5> MAY 06 - 2019 / REJUV CHIP </h5>
                 <p>Fortalece tu cuerpo, mente y espíritu.</p>
-                <a href="#!" class="item_link_info" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
+                <a href="/post/rejuv_chip" class="item_link_info" target="_blank" rel="noopener noreferrer nofollow">Leer articulo</a>
             </div>
 
         </div>

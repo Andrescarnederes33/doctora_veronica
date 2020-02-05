@@ -15,7 +15,7 @@
                         maternidad,
                         menopausia y adolescencia.
                     </p>
-                    <a class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Más
+                    <a class="waves-effect waves-light btn-small"><i class="material-icons right">info</i>Más
                         información</a>
                 </div>
 

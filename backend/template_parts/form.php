@@ -1,4 +1,4 @@
-<form action="/backend/send.php" method="POST">
+<form action="/send.php" method="POST">
     <div align="center">
         <h4 class="m0"> Déjame contactarte</h4>
     </div>
@@ -39,6 +39,7 @@
         <option value="Perineoplastia">Perinoplastia</option>
         <option value="Rejuvchip">Rejuv chip</option>
         <option value="Ácido Hialurónico">Ácido Hialurónico</option>
+        <option value="Piso Pélvico">Piso Pélvico</option>
         <option value="Sin motivo de la consulta">Motivo de la consulta</option>
     </select>
     <!-- <label>Materialize Select</label> -->
@@ -53,11 +54,11 @@
     <div class="g-recaptcha" data-sitekey="6LfOF7MUAAAAAGxjlpZERwnUN6kaO_kt8MnlYnZK"></div>
 
     <div style="margin-top: 10px;" align="right">
-        <span><a href="/politicas" target="_blank" rel="noopener noreferrer nofollow">Politicas de privacidad</a></span>
+        <span><small></small><a href="/politicas" target="_blank" rel="noopener noreferrer nofollow">Politicas de privacidad</a></small></span>
          &nbsp;
-        <button type="submit" class="waves-effect waves-light btn-large"> 
+        <button type="submit" class="waves-effect waves-light btn-small"> 
             <!-- <img src="/public/img/send.svg" class="middle" width="15px"> -->
-            Enviar datos
+           <i class="material-icons right">send</i> Enviar datos
         </button>
 
     </div>

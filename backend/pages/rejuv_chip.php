@@ -10,7 +10,10 @@
                 </p>
             </span>
             <span>
-                <a class="waves-effect waves-light btn-large"><i class="material-icons right"></i>Hablar con ventas</a>
+                <!--<a href="http://wa.me//573146798496" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-small">
+                    Hablar con ventas <i class="material-icons">chat</i>
+                    </a>-->
+                <a href="http://wa.me//573008136361" target="_blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-small"><i class="material-icons right">chat</i>Hablar con ventas</a>
             </span>
         </div>
 
@@ -54,7 +57,8 @@
             este fin, es un proceso muy rápido entre dos y cinco minutos, tambien es muy sencillo, si se hace por un
             experto en la materia.
         </p>
-        <a class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Más información</a>
+       <a href="http://wa.me//573008136361" target="blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-small"><i class="material-icons right">info</i>Más
+                    información</a>
     </div>
 
     <br><br>
@@ -92,7 +96,7 @@
     </section>
 
 </div>
-
+    <br>
 
 <section>
     <div id="bg_aplication_rejuv_chip">
@@ -109,7 +113,7 @@
                     en cada una de sus etapas de desarrollo involucrando temas como salud y vida sexual, maternidad,
                     menopausia y adolescencia.
                 </p>
-                <a href="http://wa.me//57" target="blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-large"><i class="material-icons right">info</i>Más
+                <a href="/doctora_veronica" target="blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-small"><i class="material-icons right">info</i>Más
                     información</a>
             </div>
 
@@ -121,6 +125,6 @@
     <div class="motivation_shop" style="padding: 70px 50px;">
         <h3>Lista para tratar la menopausia y aumentar tu vitalidad de manera natural</h3>
         <p>Con un clic recibe mas información de manera gratuita</p>
-        <a class="waves-effect waves-light btn-large"><i class="material-icons right">add_shopping_cart</i>Agendar una cita</a>
+        <a href="/contacto?q=0" target="blank" rel="noopener noreferrer nofollow" class="waves-effect waves-light btn-small"><i class="material-icons right">add_shopping_cart</i>Agendar cita</a>
     </div>
 </section>

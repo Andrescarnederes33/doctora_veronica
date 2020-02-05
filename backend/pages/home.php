@@ -11,10 +11,9 @@
 </section>
 <br><br>
 <section id="servicios">
-        <br><br>
         <div class="container">
                 <div>
-                        <h3>PORTAFOLIO MÉDICO Y EMPRESARIAL</h3>
+                        <h3>Portafolio médico y empresarial</h3>
                         <p>La Doctora Verónica García Bedoya hablo en Portafolio médico y empresarial como personaje del
                                 día en
                                 la medicina: hace su invitación a las mujeres del mundo para que sigan eligiendo
@@ -29,10 +28,13 @@
                         </audio>
                 </div>
         </div>
-        <br><br>
-        <section style="background-color:rebeccapurple">
-                <br><br>
+        <br><br><br><br>
+        <section style="background-color:#f9f9f9;">
+                
+                <br>
                 <div class="container">
+                    <h3>Mis servicios</h3>
+                    <p>Soy una mujer apasionada por la asesoría y acompañamiento de la mujer en cada una de sus etapas de desarrollo; involucrando temas como salud y vida sexual, maternidad, menopausia y adolescencia. </p>
                         <div class="grid_services">
                                 <div>
                                         <div class="card">
@@ -41,16 +43,14 @@
                                                                 src="/public/src/img/servicios/consulta_ginecologica.png">
                                                 </div>
                                                 <div class="card-content">
-                                                        <span class="card-title activator grey-text text-darken-4">CONSULTA
-                                                                GINECOLÓGICA <i
+                                                        <span class="card-title activator grey-text text-darken-4">Consulta ginecológica<i
                                                                         class="material-icons right">more_vert</i></span>
                                                         <p><a href="/servicios/consulta_ginecologica" target="_blank"
                                                                         rel="noopener noferrer nofollow">AGENDAR
                                                                         CITA</a></p>
                                                 </div>
                                                 <div class="card-reveal">
-                                                        <span class="card-title grey-text text-darken-4">CONSULTA
-                                                                GINECOLÓGICA <i
+                                                        <span class="card-title grey-text text-darken-4">Consulta ginecológica <i
                                                                         class="material-icons right">close</i></span>
                                                         <p>Convertir ese momento de compartir tus inquietudes de salud
                                                                 íntima con un especialista que te brinda profesionalismo
@@ -69,7 +69,7 @@
                                                 </div>
                                                 <div class="card-content">
                                                         <span class="card-title activator grey-text text-darken-4">
-                                                                OBSTETRICIA Y CONTROL PRENATAL<i
+                                                        Obstetricia y control prenatal<i
                                                                         class="material-icons right">more_vert</i></span>
                                                         <p><a href="/servicios/consulta_obstetricia-control_prenatal"
                                                                         target="_blank"
@@ -77,8 +77,10 @@
                                                                         CITA</a></p>
                                                 </div>
                                                 <div class="card-reveal">
-                                                        <span class="card-title grey-text text-darken-4">OBSTETRICIA Y
-                                                                CONTROL PRENATAL<i
+                                                        <span class="card-title grey-text text-darken-4">
+                                                        <!-- OBSTETRICIA Y CONTROL PRENATAL         -->
+                                                        Obstetricia y control prenatal
+                                                        <i
                                                                         class="material-icons right">close</i></span>
                                                         <p>
                                                                 La primera visita a control prenatal se realiza
@@ -100,16 +102,14 @@
                                                                 src="/public/src/img/servicios/consulta_anticoncepcion.png">
                                                 </div>
                                                 <div class="card-content">
-                                                        <span class="card-title activator grey-text text-darken-4">ANTICONCEPCIÓN
-                                                                FAMILIAR<i
+                                                        <span class="card-title activator grey-text text-darken-4">Anticoncepción familiar<i
                                                                         class="material-icons right">more_vert</i></span>
                                                         <p><a href="/servicios/anticoncepcion_familiar" target="_blank"
                                                                         rel="noopener noferrer nofollow">AGENDAR
                                                                         CITA</a></p>
                                                 </div>
                                                 <div class="card-reveal">
-                                                        <span class="card-title grey-text text-darken-4">ANTICONCEPCIÓN
-                                                                FAMILIAR<i class="material-icons right">close</i></span>
+                                                        <span class="card-title grey-text text-darken-4">Anticoncepción familiar <i class="material-icons right">close</i></span>
                                                         <p>
                                                                 Planificar el número de hijos que deseas y determinar el
                                                                 intervalo temporal entre embarazos corresponden a una
@@ -129,8 +129,11 @@
                                                                 src="/public/src/img/servicios/consulta_ginecologia_laser.png">
                                                 </div>
                                                 <div class="card-content">
-                                                        <span class="card-title activator grey-text text-darken-4">GINECOLOGÍA
-                                                                LÁSER<i
+                                                        <span class="card-title activator grey-text text-darken-4">
+                                                        Ginecología Láser        
+                                                        <!-- GINECOLOGÍA
+                                                                LÁSER -->
+                                                                <i
                                                                         class="material-icons right">more_vert</i></span>
                                                         <p><a href="/servicios/ginecologia_laser" target="_blank"
                                                                         rel="noopener noferrer nofollow">AGENDAR
@@ -157,7 +160,7 @@
                                                                 src="/public/src/img/servicios/consulta_menopausia.png">
                                                 </div>
                                                 <div class="card-content">
-                                                        <span class="card-title activator grey-text text-darken-4">MENOPAUSIA<i
+                                                        <span class="card-title activator grey-text text-darken-4">Menopausia<i
                                                                         class="material-icons right">more_vert</i></span>
                                                         <p><a href="/servicios/menopausia/" target="_blank"
                                                                         rel="noopener noferrer nofollow">AGENDAR
@@ -181,26 +184,23 @@
                                         <div class="card">
                                                 <div class="card-image waves-effect waves-block waves-light">
                                                         <img class="activator"
-                                                                src="/public/src/img/servicios/rejuv_chip.png">
+                                                                src="/public/src/img/servicios/piso_pelvico.png">
                                                 </div>
                                                 <div class="card-content">
-                                                        <span class="card-title activator grey-text text-darken-4">REJUV
-                                                                CHIP<i class="material-icons right">more_vert</i></span>
-                                                        <p><a href="/post/rejuv_chip/" target="_blank"
+                                                        <span class="card-title activator grey-text text-darken-4">
+                                                        Piso Pélvico        
+                                                        <i class="material-icons right">more_vert</i></span>
+                                                        <p><a href="/servicios/piso_pelvico/" target="_blank"
                                                                         rel="noopener noferrer nofollow">AGENDAR
                                                                         CITA</a></p>
                                                 </div>
                                                 <div class="card-reveal">
-                                                        <span class="card-title grey-text text-darken-4">Rejuv Chip<i
+                                                        <span class="card-title grey-text text-darken-4">Piso pélvico<i
                                                                         class="material-icons right">close</i></span>
                                                         <p>
-                                                                El rejuv chip es un implante subcutáneo casi de grande
-                                                                como un grano de arroz, que se implanta en la zona de la
-                                                                cadera del paciente, con el fin de liberar la hormona de
-                                                                la testosterona de manera regular, en muy pequeñas dosis
-                                                                y de manera constante...
+                                                        Existen diferentes patologias en el transcurso de la vida donde se puede ver afectado el piso pelvico.
                                                         </p>
-                                                        <a href="/post/rejuv_chip/" target="_blank"
+                                                        <a href="/servicios/piso_pelvico/" target="_blank"
                                                                 rel="noopener noferrer nofollow"
                                                                 class="item_link_info">Más información</a>
                                                 </div>
@@ -261,9 +261,9 @@
                                 </ul>
                                 <div>
                                         <a href="http://wa.me//57" target="_blank" rel="noopener noferrer nofollow"
-                                                class="waves-effect waves-light btn-large"><i
+                                                class="waves-effect waves-light btn-small"><i
                                                         class="material-icons right">add_shopping_cart</i>Ventas</a>
-                                        <a href="/post/rejuv_chip/" class="waves-effect waves-light btn-large"><i
+                                        <a href="/post/rejuv_chip/" class="waves-effect waves-light btn-small"><i
                                                         class="material-icons right">info</i>Más info</a>
                                 </div>
                         </div>
@@ -274,6 +274,8 @@
 <br><br>
 <section id="information">
         <div class="container">
+    <h3>Información</h3>
+    <p>Estemos al dia con nuestra salud:</p>
                 <div class="col s12 m7">
                         <div class="card horizontal">
                                 <div class="card-image">
