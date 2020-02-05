@@ -116,7 +116,7 @@
                                 <div>
                                         <div class="card">
                                                 <div class="card-image waves-effect waves-block waves-light">
-                                                        <img class="activator" src="/public/src/img/servicios/piso_pelvico.png">
+                                                        <img class="activator" src="/public/src/img/servicios/consulta_menopausia.png">
                                                 </div>
                                                 <div class="card-content">
                                                         <span class="card-title activator grey-text text-darken-4">Menopausia<i class="material-icons right">more_vert</i></span>
@@ -137,7 +137,7 @@
                                 <div>
                                         <div class="card">
                                                 <div class="card-image waves-effect waves-block waves-light">
-                                                        <img class="activator" src="/public/src/img/servicios/rejuv_chip.png">
+                                                        <img class="activator" src="/public/src/img/servicios/piso_pelvico.png">
                                                 </div>
                                                 <div class="card-content">
                                                         <span class="card-title activator grey-text text-darken-4">PISO PÉLVICO<i class="material-icons right">more_vert</i></span>
@@ -149,7 +149,7 @@
                                                         <p>
                                                         Existen diferentes patologias en el transcurso de la vida donde se puede ver afectado el piso pelvico.
                                                         </p>
-                                                        <a href="/post/rejuv_chip/" target="_blank" rel="noopener noferrer nofollow" class="item_link_info">Más información</a>
+                                                        <a href="/servicios/piso_pelvico/" target="_blank" rel="noopener noferrer nofollow" class="item_link_info">Más información</a>
                                                 </div>
                                         </div>
                                 </div>

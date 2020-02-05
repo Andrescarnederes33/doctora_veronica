@@ -7,7 +7,7 @@
   <ul>
     <!-- <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
     <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li> -->
-    <li><a href="http://wa.me//573146798496" target="_blank" rel="noopener noreferrer nofollow" class="btn-floating deep-purple"><i class="material-icons">chat</i></a></li>
+    <li><a href="http://wa.me//573008136361" target="_blank" rel="noopener noreferrer nofollow" class="btn-floating deep-purple"><i class="material-icons">chat</i></a></li>
     <li><a href="tel:3136511039" class="btn-floating deep-purple"><i class="material-icons">phone</i></a></li>
   </ul>
 </div>
@@ -33,8 +33,8 @@
                 <h5 class="white-text">Contacto</h5>
                 <ul>
                   <li>Fijo: <a class="grey-text text-lighten-3" href="tel:0343132505">(4) 313 25 05 </a></li>
-                  <li>Móvil: <a class="grey-text text-lighten-3" href="http://wa.me//57">wa.me//57</a></li>
-                  <li>Whatsapp: <a class="grey-text text-lighten-3" href="tel:3136511039">(313) 651 10 39 </a></li>
+                  <li>Telefono: <a class="grey-text text-lighten-3" href="tel:3136511039">(313) 651 10 39 </a></li>
+                  <li>Whatsapp: <a class="grey-text text-lighten-3" href="">+57 300 813 6361</a></li>
                   <li>Email: <a class="grey-text text-lighten-3" href="mailto:contacto@doctoraveronicagarcia.com">contacto@doctoraveronicagarcia.com</a></li>
                   <li>Facebook: <a class="grey-text text-lighten-3" href="https://www.facebook.com/doctoraveronicagarcia" target="_blank" rel="noopener noreferrer nofollow">@doctoraveronicagarcia</a></li>
                   <li>Instagram: <a class="grey-text text-lighten-3" href="https://www.instagram.com/doctoraveronicagarcia/" target="_blank" rel="noopener noreferrer nofollow">@doctoraveronicagarcia</a></li>

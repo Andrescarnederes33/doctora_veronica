@@ -260,7 +260,7 @@
                                         <br>
                                 </ul>
                                 <div>
-                                        <a href="http://wa.me//57" target="_blank" rel="noopener noferrer nofollow"
+                                        <a href="http://wa.me//573008136361" target="_blank" rel="noopener noferrer nofollow"
                                                 class="waves-effect waves-light btn-small"><i
                                                         class="material-icons right">add_shopping_cart</i>Ventas</a>
                                         <a href="/post/rejuv_chip/" class="waves-effect waves-light btn-small"><i

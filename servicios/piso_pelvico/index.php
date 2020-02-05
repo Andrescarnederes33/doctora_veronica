@@ -26,15 +26,15 @@
                     Existen diferentes patologias en el transcurso de la vida donde se puede ver afectado el piso
 pelvico.
 <br><br>
-                     EL PROLAPSO GENITAL significa la caida de los organos pelvicos, en donde
+                    - EL PROLAPSO GENITAL significa la caida de los organos pelvicos, en donde
 podemos tener descenso del utero, vejiga o recto , uno de los sintomas inciales es la
 senacion de bola en tu parte intima. Su reparacion dependiente el grado de
 severidad, existen opciones desde la fisioterapia de piso pelvico , pesarios y cirugia.
 <br><br>
- Otra de las patologias del suelo pelvico es LA INCONTINENCIA URINARIA ,
+- Otra de las patologias del suelo pelvico es LA INCONTINENCIA URINARIA ,
 estas existen de tres tipos urgencias, de esfuerzo y mixta.
 <br><br>
- LESIONES DEL PERINE O ANO despues de la atencion del parto, la reparacion se
+- LESIONES DEL PERINE O ANO despues de la atencion del parto, la reparacion se
 debe realizar por medicos ginecologos entrenados en suelo pelvico.
 En mi consulta puedo orientar en estas patologias y dar diferentes opciones de tratamiento.                 
                     </p>
